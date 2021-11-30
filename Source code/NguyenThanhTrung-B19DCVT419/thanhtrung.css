@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+* {
+    
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+html {
+    font-size: 10px;
+
+}
+body {
+    background-image: url(/background-dep-ppt_110341618.jpg);
+    background-position: 0 1000px;
+    font-family: "Roboto",sans-serif;
+   background-size: cover;
+}
+
+.container {
+    width: 800px;
+    height: 750px;
+    margin: 0 auto;
+    padding: 5rem;
+    margin-top: 4rem;
+    /* display: flex;
+    justify-content: center;
+    flex-direction: column; */
+    text-align: center;
+   
+   
+  
+  
+}
+img{
+    width: 300px;
+    height: 400px;
+    border-radius: 30%;
+}
+ul{
+    list-style: none;
+}
+h1{
+    font-size: 5rem;
+    font-weight: 1000px;
+    color: rgb(10, 10, 2);
+    font-style: initial;
+}
+h2 {
+    font-size: 4rem;
+    font-weight: 1000px;
+    color: rgb(10, 10, 2) ;
+}
+li{
+    font-size:20px ;
+    font-weight: 600px;
+    color: rgb(10, 10, 2);
+}
+a{
+    font-size:20px ;
+    color: rgb(10, 10, 2);
+}
+h3{
+    font-size: 20px;
+    color: rgb(10, 10, 2);
+}
