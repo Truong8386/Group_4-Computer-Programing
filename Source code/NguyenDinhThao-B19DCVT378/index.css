@@ -1,0 +1,15 @@
+ h1{
+        color: rgb(211, 84, 0);
+         border: 2px solid rgb(142, 68, 173);
+       font-size: 40px;
+       font-style: bold
+        
+        
+      }
+html {
+  background:url("https://img2.thuthuatphanmem.vn/uploads/2018/12/30/background-trang-dep_110638267.jpg") ;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+      
